@@ -1,7 +1,7 @@
 # Vulnerability Management Survival Analysis
 
 This repository provides a toolkit for analyzing vulnerability remediation performance using survival analysis techniques.
-For detailed methodology, see the accompanying blog post. The code: 
+For detailed methodology, see the accompanying [blog post](https://www.elastic.co/security-labs/time-to-patch-metrics). The code: 
 
 1. Extracts vulnerability data from Elasticsearch
 2. Applies survival analysis to understand time-to-patch behavior
